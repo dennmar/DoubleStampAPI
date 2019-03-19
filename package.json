@@ -1,0 +1,22 @@
+{
+  "name": "doublestampapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dennmar/DoubleStampAPI.git"
+  },
+  "author": "Dennis Mariano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dennmar/DoubleStampAPI/issues"
+  },
+  "homepage": "https://github.com/dennmar/DoubleStampAPI#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
